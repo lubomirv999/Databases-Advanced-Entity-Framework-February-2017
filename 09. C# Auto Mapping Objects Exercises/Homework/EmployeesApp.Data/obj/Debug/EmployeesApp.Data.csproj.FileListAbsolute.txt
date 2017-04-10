@@ -1,0 +1,12 @@
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Data\bin\Debug\EmployeesApp.Data.dll.config
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Data\bin\Debug\EmployeesApp.Data.dll
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Data\bin\Debug\EmployeesApp.Data.pdb
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Data\bin\Debug\EmployeesApp.Models.dll
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Data\bin\Debug\EntityFramework.dll
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Data\bin\Debug\EmployeesApp.Models.pdb
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Data\bin\Debug\EntityFramework.xml
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Data\obj\Debug\EmployeesApp.Data.csprojResolveAssemblyReference.cache
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Data\obj\Debug\EmployeesApp.Data.dll
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Data\obj\Debug\EmployeesApp.Data.pdb

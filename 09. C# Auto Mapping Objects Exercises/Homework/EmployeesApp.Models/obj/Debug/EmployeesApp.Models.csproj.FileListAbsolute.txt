@@ -1,0 +1,5 @@
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Models\bin\Debug\EmployeesApp.Models.dll
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Models\bin\Debug\EmployeesApp.Models.pdb
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Models\obj\Debug\EmployeesApp.Models.csprojResolveAssemblyReference.cache
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Models\obj\Debug\EmployeesApp.Models.dll
+D:\C# SoftUni\C# DB Advanced February 2017\09. C# Auto Mapping Objects Exercises\Homework\EmployeesApp.Models\obj\Debug\EmployeesApp.Models.pdb
