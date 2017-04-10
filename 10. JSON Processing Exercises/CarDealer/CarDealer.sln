@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealer.Client", "CarDealer.Client\CarDealer.Client.csproj", "{7195B4AC-76FA-424F-89E6-2DFDA8848A44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealer.Models", "CarDealer.Models\CarDealer.Models.csproj", "{71B4DB62-3DBB-4D0F-A2AC-F011D922FA67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealer.Data", "CarDealer.Data\CarDealer.Data.csproj", "{19B7DD10-2B6C-4C7A-9EB4-C46A51CE251F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Import-Json", "Import-Json", "{836C510C-6346-456F-A5F3-C17BD2FED8DE}"
+	ProjectSection(SolutionItems) = preProject
+		..\10. DB-Advanced-EntityFramework-JSON-Processing-Exercises-Resources\Import-Json-Resources\cars.json = ..\10. DB-Advanced-EntityFramework-JSON-Processing-Exercises-Resources\Import-Json-Resources\cars.json
+		..\10. DB-Advanced-EntityFramework-JSON-Processing-Exercises-Resources\Import-Json-Resources\customers.json = ..\10. DB-Advanced-EntityFramework-JSON-Processing-Exercises-Resources\Import-Json-Resources\customers.json
+		..\10. DB-Advanced-EntityFramework-JSON-Processing-Exercises-Resources\Import-Json-Resources\parts.json = ..\10. DB-Advanced-EntityFramework-JSON-Processing-Exercises-Resources\Import-Json-Resources\parts.json
+		..\10. DB-Advanced-EntityFramework-JSON-Processing-Exercises-Resources\Import-Json-Resources\suppliers.json = ..\10. DB-Advanced-EntityFramework-JSON-Processing-Exercises-Resources\Import-Json-Resources\suppliers.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7195B4AC-76FA-424F-89E6-2DFDA8848A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7195B4AC-76FA-424F-89E6-2DFDA8848A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7195B4AC-76FA-424F-89E6-2DFDA8848A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7195B4AC-76FA-424F-89E6-2DFDA8848A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B4DB62-3DBB-4D0F-A2AC-F011D922FA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B4DB62-3DBB-4D0F-A2AC-F011D922FA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B4DB62-3DBB-4D0F-A2AC-F011D922FA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B4DB62-3DBB-4D0F-A2AC-F011D922FA67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B7DD10-2B6C-4C7A-9EB4-C46A51CE251F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B7DD10-2B6C-4C7A-9EB4-C46A51CE251F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B7DD10-2B6C-4C7A-9EB4-C46A51CE251F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B7DD10-2B6C-4C7A-9EB4-C46A51CE251F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
