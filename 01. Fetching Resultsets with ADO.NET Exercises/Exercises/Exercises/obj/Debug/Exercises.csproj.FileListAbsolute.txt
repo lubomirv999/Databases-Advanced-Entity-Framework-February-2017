@@ -1,0 +1,6 @@
+D:\C# SoftUni\C# DB Advanced February 2017\01. Fetching Resultsets with ADO.NET Exercises\Exercises\Exercises\bin\Debug\Exercises.exe.config
+D:\C# SoftUni\C# DB Advanced February 2017\01. Fetching Resultsets with ADO.NET Exercises\Exercises\Exercises\bin\Debug\Exercises.exe
+D:\C# SoftUni\C# DB Advanced February 2017\01. Fetching Resultsets with ADO.NET Exercises\Exercises\Exercises\bin\Debug\Exercises.pdb
+D:\C# SoftUni\C# DB Advanced February 2017\01. Fetching Resultsets with ADO.NET Exercises\Exercises\Exercises\obj\Debug\Exercises.csprojResolveAssemblyReference.cache
+D:\C# SoftUni\C# DB Advanced February 2017\01. Fetching Resultsets with ADO.NET Exercises\Exercises\Exercises\obj\Debug\Exercises.exe
+D:\C# SoftUni\C# DB Advanced February 2017\01. Fetching Resultsets with ADO.NET Exercises\Exercises\Exercises\obj\Debug\Exercises.pdb
