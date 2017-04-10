@@ -1,0 +1,38 @@
+List of the steps
+Creating the DB
+---1. Creating Blank Solution---
+---2. Creating Name.Client Console Application---
+---3. Creating Name.Data Class Library --- Creating Name.Import where we import data--------
+---4. Creating Name.Models Class Library --- Create the models - make the class in singular (ed. 4islo), if 1:1 create nameId property
+---5. Start making the Name.Models Models (look the digram for relations) AND REQUIRED PROPERTIES
+6. Chech if the connection is double related
+---7. Check if classes are public
+---8. Initialize constructor for every virtual ICollection
+---9. Adding ADO.NET - Entity Framework in Name.Data
+---10. Adding Reference from Name.Data to Name.Models
+---11. Making the DbSets
+---12. App.Config in Name.Data, you can rename the DB "catalog", and also data provide (localDB)...
+---13. Add reference Name.Client to Name.Data and Name.Models
+---14. Making public static Utility class in Name.Data with public static void InitDB() class { var context = new NameContext(); context.Database.Initialize(true); }
+---15. Call the method from Name.Client: Utility.InitDB();
+---16. Copy App.Config from Name.Data to Name.Client
+---17. Copy Name.Data.bin.debug: entityframework.sqlserver.dll to Name.Client.bin.debug
+---18. Name.Data override - ModelBuilder - 29:00, cycle problem 30:00 we choose the entity that have problem, many to many relationship 42:30
+---19. Database.SetInitializer(new DropCreateAlways<ContextName>());
+---20. After Creating the DB Comment the previous step.
+{00:00, 49:00}
+
+Importing Data
+---1. Create Name.Import Console Application
+---2. Add Reference Name.Import to Name.Data and Name.Models
+---3. Add Newtonsoft.Json Package in Name.Import
+---4. In Name.Data Create Folder DTOs
+5. Create DTO for every Entity that we need (all at once or when needed) Dont forget to make all classes Public
+---6. Create public static class JsonImport in Name.Import
+7. Create public static void methods for import
+8. Read the file with File.ReadAllText, Convert with JsonConvert.DeserializeObject<IEnumerable<OurDTO>>(our file); Check if data is valid with foreach and insert it,
+Create new Folder in Name.Date Store, In there create classes like OurNameStore, they should be public static, In there create methods 
+public static void AddOurName(OurDto justName), use our context in using {context.WhatWeInsert.Add(new ourClass {field = whatWeInsert}); context.SaveChanges();}, 
+9. See the ExamPrep for better details and JSON Import and Queries.Copy entityframework.sqlserver.dll From Name.Data to Name.Import bin debug, Copy App.Config
+from Name.Data to Name.Import. If i write it in Name.Import Select it as start project. 
+{49:00, }
